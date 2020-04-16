@@ -7,6 +7,7 @@ My favorite things:
 - math
 - juggling
 
+The quick brown fox jumps over the lazy dog.
 
 ## Places
 
